@@ -23,6 +23,12 @@ export const chill = [
     mood: 'chill',
     src: './assets/lofi/chill4.mp3',
   },
+  {
+    id: 4,
+    name: 'Celestia',
+    mood: 'chill',
+    src: './assets/lofi/celestia.mp3',
+  },
 ];
 
 export const jazzy = [
@@ -43,6 +49,12 @@ export const jazzy = [
     name: 'Saxophone',
     mood: 'jazzy',
     src: './assets/lofi/jazz3.mp3',
+  },
+  {
+    id: 4,
+    name: 'Celestia',
+    mood: 'chill',
+    src: './assets/lofi/celestia.mp3',
   },
 ];
 
@@ -70,5 +82,11 @@ export const sleep = [
     name: 'Dreamee',
     mood: 'sleep',
     src: './assets/lofi/sleepy4.mp3',
+  },
+  {
+    id: 4,
+    name: 'Celestia',
+    mood: 'chill',
+    src: './assets/lofi/celestia.mp3',
   },
 ];
